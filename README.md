@@ -10,7 +10,7 @@
 
 ### Installation
 1. Clone the repository:
-`git clone https://github.com/your-username/user-cards-with-comments.git`
+`git clone https://github.com/thisisankit01/alaan-tech-assignment.git`
 
 2. Install the dependencies::
 `npm install`
